@@ -1,0 +1,5 @@
+2016-09-13 16:47:50.861:INFO:oejs.Server:main: jetty-9.3.11.v20160721
+2016-09-13 16:47:50.910:INFO:oejdp.ScanningAppProvider:main: Deployment monitor [file:///opt/jetty-distribution-9.3.11.v20160721/webapps/] at interval 1
+2016-09-13 16:47:50.949:INFO:oejs.AbstractConnector:main: Started ServerConnector@2d554825{HTTP/1.1,[http/1.1]}{0.0.0.0:9999}
+2016-09-13 16:47:50.949:INFO:oejs.Server:main: Started @1434ms
+2016-09-13 16:48:56.028:INFO:oejs.AbstractConnector:Thread-1: Stopped ServerConnector@2d554825{HTTP/1.1,[http/1.1]}{0.0.0.0:9999}

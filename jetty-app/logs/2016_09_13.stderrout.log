@@ -1,0 +1,8 @@
+2016-09-13 17:35:46.924:INFO:oejs.Server:main: jetty-9.3.11.v20160721
+2016-09-13 17:35:46.939:INFO:oejdp.ScanningAppProvider:main: Deployment monitor [file:///opt/jetty-distribution-9.3.11.v20160721/webapps/] at interval 1
+2016-09-13 17:35:47.442:INFO:oeja.AnnotationConfiguration:main: Scanning elapsed time=124ms
+2016-09-13 17:35:47.759:INFO:oejsh.ContextHandler:main: Started o.e.j.w.WebAppContext@5442a311{/source,file:///tmp/jetty-0.0.0.0-9999-source.war-_source-any-7108379998224245230.dir/webapp/,AVAILABLE}{/source.war}
+2016-09-13 17:35:47.786:INFO:oejs.AbstractConnector:main: Started ServerConnector@6b0c2d26{HTTP/1.1,[http/1.1]}{0.0.0.0:9999}
+2016-09-13 17:35:47.786:INFO:oejs.Server:main: Started @1881ms
+2016-09-13 17:38:13.925:INFO:oejs.AbstractConnector:Thread-1: Stopped ServerConnector@6b0c2d26{HTTP/1.1,[http/1.1]}{0.0.0.0:9999}
+2016-09-13 17:38:13.960:INFO:oejsh.ContextHandler:Thread-1: Stopped o.e.j.w.WebAppContext@5442a311{/source,null,UNAVAILABLE}{/source.war}

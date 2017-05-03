@@ -1,0 +1,2 @@
+2016-09-13 22:35:43.206:INFO:oejs.Server:main: jetty-9.3.11.v20160721
+2016-09-13 22:35:43.264:INFO:oejdp.ScanningAppProvider:main: Deployment monitor [file:///opt/jetty-app/webapps/] at interval 1
